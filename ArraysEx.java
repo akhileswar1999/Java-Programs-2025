@@ -62,6 +62,7 @@ public class ArraysEx {
             }                                       ////arrr[1][0] arrr[1][1] arrr[1][2]
                                                     ////arrr[2][0] arrr[2][1] arrr[2][2]
             System.out.println();
+            System.out.println("Print array elements");
 
 }
 // }
